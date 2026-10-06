@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+env/
+project/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.bin

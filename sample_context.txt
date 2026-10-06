@@ -1,0 +1,27 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating
+systems capable of performing tasks that normally require human intelligence. These tasks
+include reasoning, learning, problem solving, perception, and language understanding.
+
+Machine Learning is a subset of Artificial Intelligence where computers learn patterns
+from data without being explicitly programmed. Deep Learning is a specialized branch of
+Machine Learning that uses neural networks with multiple layers.
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate
+human language. Transformers have revolutionized NLP by introducing self-attention
+mechanisms that capture contextual relationships within text.
+
+The Transformer architecture was introduced in the paper 'Attention Is All You Need'
+by Vaswani and colleagues in 2017. Popular transformer-based models include BERT,
+RoBERTa, GPT, T5, and DistilBERT.
+
+Hugging Face provides a widely used ecosystem for developing NLP applications.
+The transformers library offers pre-trained models for Question Answering, Text
+Classification, Summarization, Translation, and many other tasks.
+
+Question Answering systems identify answers from a given context paragraph.
+The deepset/roberta-base-squad2 model is fine-tuned on the SQuAD 2.0 dataset and can
+answer questions by extracting relevant spans from context.
+
+Python is one of the most popular programming languages for AI and Machine Learning.
+Libraries such as NumPy, Pandas, Matplotlib, TensorFlow, PyTorch, and Scikit-Learn
+are extensively used by data scientists and machine learning engineers.

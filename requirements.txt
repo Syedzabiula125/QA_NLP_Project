@@ -1,0 +1,15 @@
+# Python 3.10+; install the CUDA-specific PyTorch wheel separately when required.
+# 5.x removed the extractive `question-answering` Pipeline API.
+# 4.57.6 is the newest stable 4.x release and retains that required API.
+transformers==4.57.6
+tensorflow>=2.18.0,<2.22.0
+torch>=2.5.0
+streamlit>=1.41.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.9.0
+scikit-learn>=1.5.0
+datasets>=3.2.0
+accelerate>=1.2.0
+sentencepiece>=0.2.0
+python-dotenv>=1.0.1
